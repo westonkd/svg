@@ -1,3 +1,9 @@
+image {
+  position: relative;
+  display: block;
+  text-align : center;   
+}
+
 .App {
   text-align: center;
 }
