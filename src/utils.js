@@ -17,6 +17,7 @@ export function svg(rotation, translateX, translateY, scale) {
                         <image 
                             xlinkHref="https://discovery.sndimg.com/content/dam/images/discovery/fullset/2020/3/16/babypanda2_getty.jpg.rend.hgtvcom.616.411.suffix/1584396557688.jpeg"
                             transform={transform}
+                            transform-origin="center center"
                         />
                     </g>
                 </g>
